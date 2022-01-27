@@ -49,7 +49,7 @@ let questions = [
     choice2: "A nice cabin in the mountains⛰️",
     choice3: "Nice Beachside house in Hawaii🏝️",
     choice4: "Calgary🗼",
-    answer: 2
+    answer: 3
   }
 ];
 
