@@ -9,6 +9,7 @@ let messages = [
     "I'm going to have to confiscate your friendship privilages✋",
     "...😬",
     "Didn't pass the vibe check😬",
+    "I mean you tried😬",
     "Idk bro, not very perfect of you🤨",
     "Congrats, you're a perfect human being. Hi Emily💜"
 ]

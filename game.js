@@ -50,12 +50,20 @@ let questions = [
     choice3: "Nice Beachside house in Hawaii🏝️",
     choice4: "Calgary🗼",
     answer: 3
+  },
+  {
+    question: "Choose a song",
+    choice1: "Potato Salad 🥔 -Tyler, the destroyer + A$AP",
+    choice2: "Yhandi 👓- Kanye East",
+    choice3: "3005 🎓- Serious Gambino",
+    choice4: "Get The Hints 🍉- Jon Bon Jovi",
+    answer: 1
   }
 ];
 
 //CONSTANTS
 const CORRECT_BONUS = 1;
-const MAX_QUESTIONS = 5;
+const MAX_QUESTIONS = 6;
 
 startGame = () => {
   questionCounter = 0;
